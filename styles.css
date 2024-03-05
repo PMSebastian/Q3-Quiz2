@@ -1,0 +1,49 @@
+body {
+	font-family: gill sans;
+	text-align: center;
+	background-color: gray;
+	background-image: url("https://images.pexels.com/photos/2117937/pexels-photo-2117937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+	background-attachment: fixed;
+	background-size: 1200px;
+}
+
+header {
+	background-color: #1b2226;
+}
+
+h1 {
+	font-family: roboto mono;
+	color: powderblue;
+}
+
+h3 {
+	background-color: #1b2226;
+	color: lightgoldenrodyellow;
+}
+
+span {
+	font-family: roboto mono;
+	color: powderblue;
+	font-size: 15px;
+}
+
+span2 {
+	font-family: roboto mono;
+	color: lightgoldenrodyellow;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+	column-gap: 10px;
+}
+
+.footer {
+	color: whitesmoke;
+	background-color: #1b2226;
+	border: 1px solid whitesmoke;
+	text-align: center;
+	padding: 15px;
+	width: 600px;
+	margin: 15px;
+}
